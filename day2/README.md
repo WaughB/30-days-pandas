@@ -1,0 +1,1 @@
+![submission](/submissions/day2.png)
