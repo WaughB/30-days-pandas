@@ -3,4 +3,4 @@
 ## Day 1: 595 - Big Countries
 
 Submission
-[](/submissions/day1.png)
+![submission](/submissions/day1.png)
