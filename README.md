@@ -1,4 +1,4 @@
-# 30-days-python
+# LeetCode 30 days of Pandas
 
 ### Day 1: 595 - Big Countries
 
