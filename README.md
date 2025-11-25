@@ -36,3 +36,13 @@ Table of performance:
 | Method | Time | Memory |
 | --- | --- | --- |
 | article_views | 4.54 ms | 1.30 MB |   
+
+### Day 5: 1683 - Invalid Tweets
+
+* [Solution 1](/day5/1683_invalid-tweets.py)
+
+Table of performance:
+| Method | Time | Memory |
+| --- | --- | --- |
+| invalid_tweets | 20.74 ms | 4.87 MB |
+    
