@@ -28,3 +28,11 @@ Table of performance:
 | find_customers | 271.80 ms | 15.55 MB |
 | find_customers_2 | 203.33 ms | 21.00 MB |
 
+### Day 4: 1148 - Article Views
+
+* [Solution 1](/day4/1148_article-views-1.py)
+
+Table of performance:
+| Method | Time | Memory |
+| --- | --- | --- |
+| article_views | 4.54 ms | 1.30 MB |   
